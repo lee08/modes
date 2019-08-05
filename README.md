@@ -3,6 +3,6 @@ Both projects "Purple" and "Upper Crust" were done in the same Unity Project. Th
 
 The projects have been released in the following sites.
 
-## Purple: https://nightworks.itch.io/purple
+### Purple: https://nightworks.itch.io/purple
 
 ### Upper Crust: https://nightworks.itch.io/uppercrust
