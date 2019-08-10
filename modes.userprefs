@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\boost\phoenix.cs">
+    <Files>
+      <File FileName="Assets\Scripts\cursor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\flap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\wepon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\topdown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\applychange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\push.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\camerafollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\basic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\teleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\portal\blueportal2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Door.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sprites\animations\animatorparameters.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\portal\portalline.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\portal\killportal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\portal\portal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\portal\orangeportal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\triggerthisbutton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\followplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\purple\mainmenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\dontdestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\stoptimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\boost\redspawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\movemenacingly.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\boost\phoenix.cs" Line="85" Column="3" />
+      <File FileName="Assets\Scripts\boost\bonusflame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
